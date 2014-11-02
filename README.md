@@ -20,7 +20,7 @@
 ## Preview
 ![kael-preview][1]
  
-## Installation
+## How to use
 
 ### Install
 
